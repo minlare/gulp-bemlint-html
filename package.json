@@ -1,0 +1,25 @@
+{
+  "name": "gulp-bemlint-html",
+  "version": "1.0.0",
+  "description": "gulp plugin to bemlint html files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minlare/gulp-bemlint-html.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minlare/gulp-bemlint-html/issues"
+  },
+  "homepage": "https://github.com/minlare/gulp-bemlint-html#readme",
+  "dependencies": {
+    "bemlint": "^1.6.1",
+    "ignore": "^5.0.4",
+    "plugin-error": "^1.0.1",
+    "through2": "^3.0.0"
+  }
+}
